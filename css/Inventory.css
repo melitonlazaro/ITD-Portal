@@ -1,0 +1,40 @@
+				
+
+
+				
+html{				
+				
+				.navigatebar{
+					float:left;
+					height:100%;
+					width:16%;
+				}
+				
+				.table{
+					list-style-type:none;
+					
+					width:200px;
+					background-color:#f1f1f1;
+					padding:25px 0px;
+					height:100%;
+				}
+				
+				.listed-items{
+					width:100%;
+					aign-left:25%;
+				}
+				.listed-items a{
+					width:100%;
+					display:block;
+					color:#000;
+					padding:8px 16px;
+					text-decoration:none;
+				}
+				
+				.listed-items a:hover{
+					background-color:#555;
+					color:white;
+					width:100%;
+				}
+				
+}
